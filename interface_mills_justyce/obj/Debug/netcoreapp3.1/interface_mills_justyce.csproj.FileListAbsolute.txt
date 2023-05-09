@@ -1,0 +1,13 @@
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\obj\Debug\netcoreapp3.1\interface_mills_justyce.csproj.AssemblyReference.cache
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\obj\Debug\netcoreapp3.1\interface_mills_justyce.AssemblyInfoInputs.cache
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\obj\Debug\netcoreapp3.1\interface_mills_justyce.AssemblyInfo.cs
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\obj\Debug\netcoreapp3.1\interface_mills_justyce.csproj.CoreCompileInputs.cache
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\bin\Debug\netcoreapp3.1\interface_mills_justyce.exe
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\bin\Debug\netcoreapp3.1\interface_mills_justyce.deps.json
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\bin\Debug\netcoreapp3.1\interface_mills_justyce.runtimeconfig.json
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\bin\Debug\netcoreapp3.1\interface_mills_justyce.runtimeconfig.dev.json
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\bin\Debug\netcoreapp3.1\interface_mills_justyce.dll
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\bin\Debug\netcoreapp3.1\interface_mills_justyce.pdb
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\obj\Debug\netcoreapp3.1\interface_mills_justyce.dll
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\obj\Debug\netcoreapp3.1\interface_mills_justyce.pdb
+C:\Users\justyce.mills\source\repos\interface_mills_justyce\interface_mills_justyce\obj\Debug\netcoreapp3.1\interface_mills_justyce.genruntimeconfig.cache

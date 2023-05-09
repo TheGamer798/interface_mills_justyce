@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "interface_mills_justyce/1.0.0": {
+        "runtime": {
+          "interface_mills_justyce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "interface_mills_justyce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
